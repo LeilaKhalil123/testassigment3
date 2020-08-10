@@ -1,0 +1,99 @@
+body{
+	/*background-color: #e6e4e5;*/
+	background-color: #ffe7d1;
+	
+
+}
+
+
+.container{
+	margin-left: 0px;
+	margin-right: 0px;
+
+}
+#header-nav{
+	border-radius: 0;
+	/*background-color:#f7f5f5;*/
+	background-color:#f4f6ff;
+	border:2px black solid;
+}
+
+
+#nav-title{ /*food, llc*/
+	margin-left: 20px;
+	margin-bottom: 20px;
+	
+  font-family: 'Lora', serif;
+  color:  #ee8572;
+  
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222; 
+  line-height: .75;
+}
+
+
+#nav-list li {
+	/*border-top: 2px black solid;  */
+}
+#nav-list li a:hover{
+	background: #E7E7E7;
+}
+li a {
+	text-align: center;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	
+}
+.list-item {
+	color: #ea907a;
+}
+
+/*home sections */
+
+#chicken , #beef , #sushi{
+	border: 1px solid black;
+	margin-left: 15px;
+	margin-bottom: 20px;
+	margin-right: 15px;
+
+	background-color:#f4f6ff;
+
+	
+}
+
+
+
+#title_chicken,#title_beef,#title_sushi{
+	text-align: center;
+	font-family: 'Lora', serif;
+	font-weight: bold;
+	font-size: 1.5em;
+	color: #ee8572;
+	text-shadow: 1px 1px 1px #222;
+	padding-right: 20px;
+	padding-left: 20px;	
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+}
+
+.dummy{
+	clear: both;
+	font-family: Georgia;
+	color: #005086;
+	font-size: 1.2em;
+	padding: 10px 20px 10px 20px;
+}
+
+
+.back-to-top{
+	padding-left: 25px;
+	padding-bottom: 20px;
+	font-family: 'Lora', serif;
+	font-weight: bold;
+	text-align: center;
+    font-size: 1.2em;
+    color:   #ee8572;
+
+
+}
